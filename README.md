@@ -28,7 +28,7 @@
 | Project | Description | Live Demo | Code |
 |----------|--------------|------------|------|
 | **Portfolio Site** | My personal portfolio built using HTML, CSS, JS | [View](https://ishasharma11111.github.io/My-Portfolio/) | [Repo](https://github.com/ishasharma11111/My-Portfolio.git) |
-| **F1 Inside Hub** | A web app for Formula 1 fans 🏎️ | [View](https://ishasharma11111.github.io/F1-insights-hub/) | [Repo](#) |
+| **F1 Inside Hub** | A web app for Formula 1 fans 🏎️ | [View](https://ishasharma11111.github.io/F1-insights-hub/) | [Repo](https://github.com/ishasharma11111/F1-insights-hub.git) |
 | **Cosmetic Landing Page** | Responsive landing page for a brand | [View](https://ishasharma11111.github.io/Business-Landing-Page/) | [Repo](#) |
 | **Twitter Clone (UI)** | Built using Tailwind CSS | [View](#) | [Repo](#) |
 
