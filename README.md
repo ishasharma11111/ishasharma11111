@@ -29,7 +29,7 @@
 |----------|--------------|------------|------|
 | **Portfolio Site** | My personal portfolio built using HTML, CSS, JS | [View](https://ishasharma11111.github.io/My-Portfolio/) | [Repo](#) |
 | **F1 Inside Hub** | A web app for Formula 1 fans 🏎️ | [View](https://ishasharma11111.github.io/F1-insights-hub/) | [Repo](#) |
-| **Cosmetic Landing Page** | Responsive landing page for a brand | [View](#) | [Repo](#) |
+| **Cosmetic Landing Page** | Responsive landing page for a brand | [View](https://ishasharma11111.github.io/Business-Landing-Page/) | [Repo](#) |
 | **Twitter Clone (UI)** | Built using Tailwind CSS | [View](#) | [Repo](#) |
 
 ---
@@ -49,7 +49,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/isha-sharma11111" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your-email ishasharma9768@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
