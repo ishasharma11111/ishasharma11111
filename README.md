@@ -39,7 +39,7 @@
 
 ![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishasharma11111&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishasharma11111&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ishasharma11111&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ishasharma11111&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
